@@ -1,5 +1,4 @@
-# Google-Data-Analytics-Specialization-Capstone
+# Google Data Analytics Professional Certificate - Capstone Project (Coursera)
 
-- Capstone Project for Google Data Analytics Professional Certificate through Coursera. 
 - Analyzed FitBit fitness data to guide marketing strategy for Bellabeat, a high-tech manufacturer of health-focused products for women.
-- Project included data cleaning and EDA with R.  
+- Project included data cleaning and exploratory data analysis with R.  
